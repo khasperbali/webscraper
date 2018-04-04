@@ -11,5 +11,3 @@ def scrapePrice():
     f = open('bitcoinPrice.txt', 'wb')
     f.write(text)
     f.close()
-    print('Price saved to bitcoinPrice.txt')
-    
