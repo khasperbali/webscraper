@@ -7,3 +7,4 @@ HOW TO USE IT (when i fix it)
 1) Clone repo 
 2) Run python WebScraper V1.py
 3) Look in folder for .txt file
+4) Price of BitCoin is there
