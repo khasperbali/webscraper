@@ -1,6 +1,9 @@
-BitCoin Webscraper
-This is a webscraper. 
-This will find the price of bitcoin to usd for you. 
-To use it simply
-1)Clone the file
-2)run "python webscraper.py" in a terminal and it'll run.
+BitCoin WebScraper Version 1
+This is a work in progress 
+This is supposed to scrape some data from a bitcoin website and tell you the price of 1 bitcoin to USD
+
+No outcome yet
+HOW TO USE IT (when i fix it)
+1) Clone repo 
+2) Run python WebScraper V1.py
+3) Look in folder for .txt file
